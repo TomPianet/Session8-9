@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3cb32ec-bc63-4f87-a86c-46302530e751" name="Changes" comment="committ" />
+    <list default="true" id="c3cb32ec-bc63-4f87-a86c-46302530e751" name="Changes" comment="committ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-method.py" beforeDir="false" afterPath="$PROJECT_DIR$/string-method.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707476225654</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="committ">
+      <option name="closed" value="true" />
+      <created>1707476368256</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707476368257</updated>
+    </task>
+    <task id="LOCAL-00015" summary="committ">
+      <option name="closed" value="true" />
+      <created>1707476477035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707476477035</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
