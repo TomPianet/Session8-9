@@ -13,3 +13,5 @@ print(text, new_text)
 print("bannannnana".count("n"))
 print("bannannnana".index("ana"))
 print("bababannanana".replace("ana", "XXYYZZ"))
+
+sentence = "Hello, kind-sir; how many ! I be of service today ?"
