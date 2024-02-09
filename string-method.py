@@ -10,3 +10,4 @@ print(text.upper().isupper())   #is the text all uppercase? YESSSSS
 
 new_text = text.upper()
 print(text, new_text)
+print("bannannnana", count("n"))
