@@ -15,3 +15,4 @@ print("bannannnana".index("ana"))
 print("bababannanana".replace("ana", "XXYYZZ"))
 
 sentence = "Hello, kind-sir; how many ! I be of service today ?"
+print(sentence.replace(",", "").replace("Hello", "Hi"))
